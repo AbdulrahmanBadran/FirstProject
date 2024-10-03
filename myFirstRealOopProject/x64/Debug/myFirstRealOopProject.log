@@ -1,0 +1,18 @@
+﻿  myFirstRealOopProject.cpp
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\myStringLib.h(22,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\myStringLib.h(80,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsUtil.h(12,14): warning C4091: 'static ': ignored on left of 'clsUtil::enrandomize' when no variable is declared
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsInputValidate.h(174,10): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBankClient.h(273,16): warning C4091: 'static ': ignored on left of 'clsBankClient::stTransferLogInfo' when no variable is declared
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBankClient.h(502,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBankClient.h(515,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBamkUser.h(88,142): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsTotalBalanceScreen.h(55,41): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\myStringLib.h(192,1): warning C4715: 'myStringLib::NumberToText': not all control paths return a value
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsLogInScreen.h(74,1): warning C4715: 'clsLogInscreen::LogInScreen': not all control paths return a value
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBankClient.h(464,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBankCurrency.h(239,1): warning C4715: 'clsCurrencies::findByCode': not all control paths return a value
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBankCurrency.h(274,1): warning C4715: 'clsCurrencies::findByCountry': not all control paths return a value
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsBamkUser.h(595,1): warning C4715: 'clsBankUser::save': not all control paths return a value
+C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\myFirstRealOopProject\clsUtil.h(294,1): warning C4715: 'clsUtil::NumberToText': not all control paths return a value
+  myFirstRealOopProject.vcxproj -> C:\Users\OsamaNaser\source\repos\myFirstRealOopProject\x64\Debug\myFirstRealOopProject.exe
